@@ -16,5 +16,7 @@ public class MahasiswaAksi {
         Touma.Nama="Touma Minami";
         Touma.NPM="16632004";
         Touma.IPK=3.4;
+        
+        Touma.cetakinfo();
     }
 }
