@@ -12,5 +12,9 @@ package praktekpbo01;
 public class MahasiswaAksi {
     public static void main(String[] args) {
         Mahasiswa Touma = new Mahasiswa();
+        
+        Touma.Nama="Touma Minami";
+        Touma.NPM="16632004";
+        Touma.IPK=3.4;
     }
 }
